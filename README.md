@@ -1,17 +1,18 @@
 ## Hi, I'm Syed Hassam Raza 👋
 
-🎓 BS Computer Science (3rd Semester)  
-💻 Primary Language: C++  
-🧠 Interested in problem solving and system-level concepts  
-📍 Islamabad, Pakistan  
+🎓 BS Computer Science, HITEC University (5th semester)
+🎯 Building toward data science and AI/ML
+📍 Islamabad, Pakistan
 
 ### Skills
-- C++
-- Java
-- Data Structures & OOP
-- HTML, CSS, JavaScript
-- MySQL
+- Languages: C++, Java, Python (in progress), JavaScript
+- Databases: MySQL, T-SQL
+- Core: Data Structures, OOP
+
+### Projects
+- **HiSUP**: university portal database project (SQL Server)
+- **Hostel Management System**: JavaScript web app
+- **Housing Data Analysis**: Python and pandas (coming soon)
 
 ### Currently Learning
-- Data Structures & Algorithms
-- Operating Systems
+- Python for data analysis, SQL, machine learning basics
